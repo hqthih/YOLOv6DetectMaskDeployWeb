@@ -1,0 +1,5 @@
+train: ../train_images/images/train
+val: ../train_images/images/valid
+is_coco: False
+nc: 2
+names: ['mask', 'no-mask']
